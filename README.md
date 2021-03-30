@@ -136,7 +136,7 @@ git clone https://github.com/luialbeto/FinalAcademy
 cd FinalAcademy
  ```
 
-- Configurando selenium em seu computador
+- Configurando selenium em seu computador<br>
 Fazer o download do Chrome Webdriver e colocar o arquivo descompactado dentro da pasta driver na raiz do projeto:<br>
 https://chromedriver.chromium.org/downloads<br>
 
